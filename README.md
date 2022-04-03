@@ -1,4 +1,4 @@
-### Hi there 👋 I am Anjali Mengar, an aspiring Data Scientist trying to learn and explore the world of Data.
+###### Hi there 👋 I am Anjali Mengar, an aspiring Data Scientist trying to learn and explore the world of Data...
 
 <!--
 **AnjaliMengar/AnjaliMengar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
